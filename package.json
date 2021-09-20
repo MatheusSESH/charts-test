@@ -22,7 +22,6 @@
     "antd": "^4.6.4",
     "axios": "^0.21.4",
     "fs": "^0.0.1-security",
-    "js-file-download": "^0.4.12",
     "moment": "^2.29.1",
     "react": "^16.13.1",
     "react-calendar": "^3.3.1",
